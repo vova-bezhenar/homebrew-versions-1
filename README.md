@@ -4,7 +4,7 @@ These formulae provide multiple versions of existing packages, or  newer version
 
 ## How do I install these formulae?
 
-Just `brew tap homebrew/versions` and then `brew install <formula>`.
+Just `brew tap paulirish/homebrew-versions-1` and then `brew install <formula>`.
 
 If the formula conflicts with one from `homebrew/core` or another tap, you can `brew install homebrew/versions/<formula>`.
 
